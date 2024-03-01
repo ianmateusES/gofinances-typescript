@@ -151,11 +151,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Made with :black_heart: by Ian Mateus
-
-<br/>
-
-<p align="right">
-  <img alt="GoStack" title="GoStack" src=".github/gostack.svg" width="60px" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GoStack" title="RocketSeat" src=".github/rocketseat.svg" width="200px" />
-</p>
